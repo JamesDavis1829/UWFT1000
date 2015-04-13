@@ -42,6 +42,6 @@ void loop() {
   Serial.println(p8);
   Serial.print("Pin 9: ");
   Serial.println(p9);
-  delay(1500);
+  delay(400);
 
 }
